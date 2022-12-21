@@ -35,7 +35,7 @@ void OnTriggerEnter(Collider other)
 void SetCountText(){
 		countText.text = "Count: " + count.ToString();
 
-		if (count >= 5) 
+		if (count >= 6) 
 		{
                  winText.text= "Mission Complete!";
 
