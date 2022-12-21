@@ -37,7 +37,7 @@ void SetCountText(){
 
 		if (count >= 6) 
 		{
-                 winText.text= "Mission Complete!";
+                 winText.text= "Nice Job Soldier\n Mission Complete\n Prepare for Extract!";
 
 	}}}
             

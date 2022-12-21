@@ -5558,7 +5558,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 164.91, y: -93.2}
+  m_AnchoredPosition: {x: 174.5, y: -110.1}
   m_SizeDelta: {x: 317.47, y: 61.0609}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &182628108
@@ -10892,7 +10892,7 @@ RectTransform:
   m_GameObject: {fileID: 602319946}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.0795, y: 1.0795, z: 1.0795}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1403123602}
@@ -10900,8 +10900,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 145.9, y: -34.6}
-  m_SizeDelta: {x: 279.4562, y: 35.0668}
+  m_AnchoredPosition: {x: 170.6, y: -45.1}
+  m_SizeDelta: {x: 324.53, y: 69}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &602319948
 MonoBehaviour:
@@ -10936,7 +10936,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Collect the KeyCards!
+  m_Text: 'Move fast, we need that intel
+
+    Collect those KeyCards!'
 --- !u!222 &602319949
 CanvasRenderer:
   m_ObjectHideFlags: 0
